@@ -1,0 +1,24 @@
+{
+  "mae": 2.555,
+  "r2": 0.068,
+  "trained_on": 48373,
+  "top_features": [
+    {
+      "feature": "accident_type",
+      "label": "Accident type",
+      "importance": 0.277
+    },
+    {
+      "feature": "district",
+      "label": "District location",
+      "importance": 0.255
+    },
+    {
+      "feature": "primary_vehicle",
+      "label": "Vehicle type",
+      "importance": 0.196
+    }
+  ],
+  "model_type": "RandomForestRegressor",
+  "version": "v1"
+}

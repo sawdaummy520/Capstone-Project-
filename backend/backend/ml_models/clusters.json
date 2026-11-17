@@ -1,0 +1,492 @@
+{
+  "districts": [
+    {
+      "district": "Bagerhat",
+      "cluster_label": "High",
+      "total": 25,
+      "fatalities": 82,
+      "injuries": 79,
+      "severity_sum": 325
+    },
+    {
+      "district": "Bandarban",
+      "cluster_label": "Medium",
+      "total": 7,
+      "fatalities": 21,
+      "injuries": 54,
+      "severity_sum": 117
+    },
+    {
+      "district": "Barguna",
+      "cluster_label": "Low",
+      "total": 8,
+      "fatalities": 14,
+      "injuries": 23,
+      "severity_sum": 65
+    },
+    {
+      "district": "Barishal",
+      "cluster_label": "High",
+      "total": 24,
+      "fatalities": 74,
+      "injuries": 132,
+      "severity_sum": 354
+    },
+    {
+      "district": "Bhola",
+      "cluster_label": "Low",
+      "total": 10,
+      "fatalities": 13,
+      "injuries": 16,
+      "severity_sum": 55
+    },
+    {
+      "district": "Bogura",
+      "cluster_label": "High",
+      "total": 33,
+      "fatalities": 101,
+      "injuries": 186,
+      "severity_sum": 489
+    },
+    {
+      "district": "Brahmanbaria",
+      "cluster_label": "High",
+      "total": 20,
+      "fatalities": 49,
+      "injuries": 81,
+      "severity_sum": 228
+    },
+    {
+      "district": "Chapainawabganj",
+      "cluster_label": "Low",
+      "total": 21,
+      "fatalities": 40,
+      "injuries": 33,
+      "severity_sum": 153
+    },
+    {
+      "district": "Chattogram",
+      "cluster_label": "High",
+      "total": 109,
+      "fatalities": 289,
+      "injuries": 431,
+      "severity_sum": 1298
+    },
+    {
+      "district": "Chuadanga",
+      "cluster_label": "Low",
+      "total": 11,
+      "fatalities": 36,
+      "injuries": 19,
+      "severity_sum": 127
+    },
+    {
+      "district": "Cox's Bazar",
+      "cluster_label": "High",
+      "total": 27,
+      "fatalities": 77,
+      "injuries": 122,
+      "severity_sum": 353
+    },
+    {
+      "district": "Cumilla",
+      "cluster_label": "High",
+      "total": 61,
+      "fatalities": 192,
+      "injuries": 220,
+      "severity_sum": 796
+    },
+    {
+      "district": "Dhaka",
+      "cluster_label": "Critical",
+      "total": 46918,
+      "fatalities": 47126,
+      "injuries": 93626,
+      "severity_sum": 235004
+    },
+    {
+      "district": "Dinajpur",
+      "cluster_label": "High",
+      "total": 35,
+      "fatalities": 97,
+      "injuries": 161,
+      "severity_sum": 452
+    },
+    {
+      "district": "Faridpur",
+      "cluster_label": "High",
+      "total": 33,
+      "fatalities": 155,
+      "injuries": 147,
+      "severity_sum": 612
+    },
+    {
+      "district": "Feni",
+      "cluster_label": "Medium",
+      "total": 15,
+      "fatalities": 57,
+      "injuries": 116,
+      "severity_sum": 287
+    },
+    {
+      "district": "Gaibandha",
+      "cluster_label": "High",
+      "total": 19,
+      "fatalities": 68,
+      "injuries": 70,
+      "severity_sum": 274
+    },
+    {
+      "district": "Gazipur",
+      "cluster_label": "High",
+      "total": 52,
+      "fatalities": 120,
+      "injuries": 94,
+      "severity_sum": 454
+    },
+    {
+      "district": "Gopalganj",
+      "cluster_label": "High",
+      "total": 40,
+      "fatalities": 126,
+      "injuries": 291,
+      "severity_sum": 669
+    },
+    {
+      "district": "Habiganj",
+      "cluster_label": "Medium",
+      "total": 20,
+      "fatalities": 144,
+      "injuries": 137,
+      "severity_sum": 569
+    },
+    {
+      "district": "Jamalpur",
+      "cluster_label": "Low",
+      "total": 8,
+      "fatalities": 15,
+      "injuries": 7,
+      "severity_sum": 52
+    },
+    {
+      "district": "Jashore",
+      "cluster_label": "Low",
+      "total": 30,
+      "fatalities": 61,
+      "injuries": 60,
+      "severity_sum": 243
+    },
+    {
+      "district": "Jhenaidah",
+      "cluster_label": "Medium",
+      "total": 12,
+      "fatalities": 33,
+      "injuries": 85,
+      "severity_sum": 184
+    },
+    {
+      "district": "Joypurhat",
+      "cluster_label": "Low",
+      "total": 8,
+      "fatalities": 22,
+      "injuries": 11,
+      "severity_sum": 77
+    },
+    {
+      "district": "Khagrachhari",
+      "cluster_label": "Medium",
+      "total": 5,
+      "fatalities": 18,
+      "injuries": 41,
+      "severity_sum": 95
+    },
+    {
+      "district": "Khulna",
+      "cluster_label": "Medium",
+      "total": 23,
+      "fatalities": 80,
+      "injuries": 225,
+      "severity_sum": 465
+    },
+    {
+      "district": "Kishoreganj",
+      "cluster_label": "Low",
+      "total": 9,
+      "fatalities": 23,
+      "injuries": 45,
+      "severity_sum": 114
+    },
+    {
+      "district": "Kurigram",
+      "cluster_label": "Low",
+      "total": 14,
+      "fatalities": 30,
+      "injuries": 30,
+      "severity_sum": 120
+    },
+    {
+      "district": "Kushtia",
+      "cluster_label": "Low",
+      "total": 23,
+      "fatalities": 41,
+      "injuries": 80,
+      "severity_sum": 203
+    },
+    {
+      "district": "Lalmonirhat",
+      "cluster_label": "Low",
+      "total": 5,
+      "fatalities": 8,
+      "injuries": 25,
+      "severity_sum": 49
+    },
+    {
+      "district": "Madaripur",
+      "cluster_label": "Medium",
+      "total": 16,
+      "fatalities": 95,
+      "injuries": 138,
+      "severity_sum": 423
+    },
+    {
+      "district": "Magura",
+      "cluster_label": "Low",
+      "total": 19,
+      "fatalities": 35,
+      "injuries": 76,
+      "severity_sum": 181
+    },
+    {
+      "district": "Manikganj",
+      "cluster_label": "Medium",
+      "total": 19,
+      "fatalities": 38,
+      "injuries": 191,
+      "severity_sum": 305
+    },
+    {
+      "district": "Meherpur",
+      "cluster_label": "Low",
+      "total": 5,
+      "fatalities": 4,
+      "injuries": 5,
+      "severity_sum": 17
+    },
+    {
+      "district": "Moulvibazar",
+      "cluster_label": "Low",
+      "total": 7,
+      "fatalities": 18,
+      "injuries": 13,
+      "severity_sum": 67
+    },
+    {
+      "district": "Munshiganj",
+      "cluster_label": "High",
+      "total": 22,
+      "fatalities": 43,
+      "injuries": 163,
+      "severity_sum": 292
+    },
+    {
+      "district": "Mymensingh",
+      "cluster_label": "High",
+      "total": 46,
+      "fatalities": 146,
+      "injuries": 182,
+      "severity_sum": 620
+    },
+    {
+      "district": "Naogaon",
+      "cluster_label": "Low",
+      "total": 14,
+      "fatalities": 29,
+      "injuries": 44,
+      "severity_sum": 131
+    },
+    {
+      "district": "Narail",
+      "cluster_label": "Low",
+      "total": 7,
+      "fatalities": 14,
+      "injuries": 14,
+      "severity_sum": 56
+    },
+    {
+      "district": "Narayanganj",
+      "cluster_label": "High",
+      "total": 174,
+      "fatalities": 170,
+      "injuries": 411,
+      "severity_sum": 921
+    },
+    {
+      "district": "Narsingdi",
+      "cluster_label": "High",
+      "total": 29,
+      "fatalities": 103,
+      "injuries": 82,
+      "severity_sum": 391
+    },
+    {
+      "district": "Natore",
+      "cluster_label": "High",
+      "total": 33,
+      "fatalities": 122,
+      "injuries": 180,
+      "severity_sum": 546
+    },
+    {
+      "district": "Netrokona",
+      "cluster_label": "Medium",
+      "total": 4,
+      "fatalities": 13,
+      "injuries": 32,
+      "severity_sum": 71
+    },
+    {
+      "district": "Nilphamari",
+      "cluster_label": "Low",
+      "total": 9,
+      "fatalities": 23,
+      "injuries": 21,
+      "severity_sum": 90
+    },
+    {
+      "district": "Noakhali",
+      "cluster_label": "Low",
+      "total": 19,
+      "fatalities": 42,
+      "injuries": 58,
+      "severity_sum": 184
+    },
+    {
+      "district": "Pabna",
+      "cluster_label": "Low",
+      "total": 20,
+      "fatalities": 44,
+      "injuries": 50,
+      "severity_sum": 182
+    },
+    {
+      "district": "Panchagarh",
+      "cluster_label": "High",
+      "total": 20,
+      "fatalities": 57,
+      "injuries": 115,
+      "severity_sum": 286
+    },
+    {
+      "district": "Patuakhali",
+      "cluster_label": "Low",
+      "total": 1,
+      "fatalities": 4,
+      "injuries": 0,
+      "severity_sum": 12
+    },
+    {
+      "district": "Pirojpur",
+      "cluster_label": "Low",
+      "total": 6,
+      "fatalities": 18,
+      "injuries": 8,
+      "severity_sum": 62
+    },
+    {
+      "district": "Rajbari",
+      "cluster_label": "Medium",
+      "total": 11,
+      "fatalities": 32,
+      "injuries": 68,
+      "severity_sum": 164
+    },
+    {
+      "district": "Rajshahi",
+      "cluster_label": "High",
+      "total": 46,
+      "fatalities": 102,
+      "injuries": 175,
+      "severity_sum": 481
+    },
+    {
+      "district": "Rangamati",
+      "cluster_label": "Low",
+      "total": 4,
+      "fatalities": 10,
+      "injuries": 8,
+      "severity_sum": 38
+    },
+    {
+      "district": "Rangpur",
+      "cluster_label": "Medium",
+      "total": 35,
+      "fatalities": 154,
+      "injuries": 348,
+      "severity_sum": 810
+    },
+    {
+      "district": "Satkhira",
+      "cluster_label": "Low",
+      "total": 20,
+      "fatalities": 42,
+      "injuries": 74,
+      "severity_sum": 200
+    },
+    {
+      "district": "Shariatpur",
+      "cluster_label": "Low",
+      "total": 11,
+      "fatalities": 21,
+      "injuries": 69,
+      "severity_sum": 132
+    },
+    {
+      "district": "Sherpur",
+      "cluster_label": "Low",
+      "total": 13,
+      "fatalities": 24,
+      "injuries": 63,
+      "severity_sum": 135
+    },
+    {
+      "district": "Sirajganj",
+      "cluster_label": "High",
+      "total": 44,
+      "fatalities": 140,
+      "injuries": 200,
+      "severity_sum": 620
+    },
+    {
+      "district": "Sunamganj",
+      "cluster_label": "Medium",
+      "total": 8,
+      "fatalities": 26,
+      "injuries": 33,
+      "severity_sum": 111
+    },
+    {
+      "district": "Sylhet",
+      "cluster_label": "High",
+      "total": 44,
+      "fatalities": 120,
+      "injuries": 152,
+      "severity_sum": 512
+    },
+    {
+      "district": "Tangail",
+      "cluster_label": "High",
+      "total": 29,
+      "fatalities": 100,
+      "injuries": 139,
+      "severity_sum": 439
+    },
+    {
+      "district": "Thakurgaon",
+      "cluster_label": "Low",
+      "total": 13,
+      "fatalities": 21,
+      "injuries": 68,
+      "severity_sum": 131
+    }
+  ]
+}
